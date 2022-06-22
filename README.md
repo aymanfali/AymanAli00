@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning .Net Framework using C#
 - 👯 I’m looking to collaborate on big projects
-- 🤔 I can help with UX/UI develpment
+- 🤔 I can help with UX/UI design
 - 📫 To reach me on: ayman4swd@gmail.com || +967738718923
 
 
