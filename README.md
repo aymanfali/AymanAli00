@@ -7,9 +7,4 @@
 - 🤔 I can help with UX/UI design
 - 📫 To reach me on: ayman4swd@gmail.com || +967738718923
 
-
-![](https://raw.githubusercontent.com/AymanAli00/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AymanAli00/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/AymanAli00/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AymanAli00/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanAli00)](https://github.com/anuraghazra/github-readme-stats)
