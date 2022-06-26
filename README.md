@@ -2,9 +2,9 @@
 👋 Hi, I am #Ayman F. Ali
 <hr>
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on Web Development as a freelancer 
 - 🌱 I’m currently learning .Net Framework using C#
-- 👯 I’m looking to collaborate on big projects
+- 👯 I’m looking forward to collaborate on big projects
 - 🤔 I can help with UX/UI design
 - 📫 To reach me on: ayman4swd@gmail.com || +967738718923
 
