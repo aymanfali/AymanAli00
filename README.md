@@ -3,7 +3,7 @@
 <hr>
 
 - 🔭 I’m currently working on Web Development as a freelancer 
-- 🌱 I’m currently learning .Net Framework using C#
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking forward to collaborate on big projects
 - 🤔 I can help with UX/UI design
 - 📫 To reach me on: ayman4swd@gmail.com || +967738718923
